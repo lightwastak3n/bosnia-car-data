@@ -7,6 +7,8 @@ I have also included a sample of 50 000 cars.
 There is also colab notebook available here https://colab.research.google.com/drive/1_OxzlcW9bObyXPmEckXRpM1UhO6Q6CaA?usp=sharing
 
 ## Why
-We wanted to buy a car but the prices were going wild in the middle of the pandemic. So while searching for the car I started scraping them and making some stuff: like a script that sends message to my phone when a car with given specs is found and an app that finds 20 best listings using linear regression (it's really bad). 
-<img height=200 src="car_finder.png">
+We wanted to buy a car but the prices were going wild in the middle of the pandemic. So while searching for the car I started scraping them and making some stuff: like a script that sends message to my phone when a car with given specs is found and an app that finds 20 best listings using linear regression (it's really bad).
+
+<img height=400 src="car_finder.png">
+
 After we bought one I was left with so much data, I started analyzing it and slowly adding more stuff.
